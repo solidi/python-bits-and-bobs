@@ -2,3 +2,4 @@ dogs
 smallerdogs
 dillfile
 env/
+__pycache__/
