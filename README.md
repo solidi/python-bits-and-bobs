@@ -5,3 +5,6 @@ https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 
 ## Cookiecutter
 https://cookiecutter.readthedocs.io/en/latest/first_steps.html
+
+## Marshmallow
+https://marshmallow.readthedocs.io/en/3.0/quickstart.html
