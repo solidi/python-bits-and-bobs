@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "foobar"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+home-page = "https://github.com/sirrobin/foobar"
+classifiers = ["License :: OSI Approved :: Apache Software License"]
+

@@ -11,3 +11,6 @@ https://marshmallow.readthedocs.io/en/3.0/quickstart.html
 
 ## AsyncIO
 https://asyncio.readthedocs.io/en/latest/hello_world.html
+
+## Flit
+https://github.com/takluyver/flit

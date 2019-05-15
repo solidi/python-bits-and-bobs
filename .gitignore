@@ -3,3 +3,4 @@ smallerdogs
 dillfile
 env/
 __pycache__/
+dist/
