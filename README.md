@@ -14,3 +14,6 @@ https://asyncio.readthedocs.io/en/latest/hello_world.html
 
 ## Flit
 https://github.com/takluyver/flit
+
+## Mimesis
+https://github.com/lk-geimfari/mimesis
