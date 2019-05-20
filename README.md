@@ -17,3 +17,6 @@ https://github.com/takluyver/flit
 
 ## Mimesis
 https://github.com/lk-geimfari/mimesis
+
+## Pipenv
+https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv
