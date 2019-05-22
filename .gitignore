@@ -4,3 +4,6 @@ dillfile
 env/
 __pycache__/
 dist/
+.coverage
+htmlcov/
+.DS_Store

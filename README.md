@@ -20,3 +20,8 @@ https://github.com/lk-geimfari/mimesis
 
 ## Pipenv
 https://thoughtbot.com/blog/how-to-manage-your-python-projects-with-pipenv
+
+## Coverage.py
+https://www.blog.pythonlibrary.org/2016/07/20/an-intro-to-coverage-py/
+https://www.robinandeer.com/blog/2016/06/22/how-i-test-my-code-part-3/
+
