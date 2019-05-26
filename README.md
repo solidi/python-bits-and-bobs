@@ -27,3 +27,6 @@ https://www.robinandeer.com/blog/2016/06/22/how-i-test-my-code-part-3/
 
 ## Structlog
 http://www.structlog.org/en/stable/getting-started.html
+
+## Hypothesis
+https://hypothesis.readthedocs.io/en/latest/quickstart.html
