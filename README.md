@@ -33,3 +33,6 @@ https://hypothesis.readthedocs.io/en/latest/quickstart.html
 
 ## Bokeh
 https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html
+
+## Tox
+https://tox.readthedocs.io/en/latest/
