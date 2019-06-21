@@ -36,3 +36,7 @@ https://bokeh.pydata.org/en/latest/docs/user_guide/quickstart.html
 
 ## Tox
 https://tox.readthedocs.io/en/latest/
+
+## Attrs
+http://www.attrs.org/en/stable/examples.html
+http://threeofwands.com/attrs-i-the-basics/
