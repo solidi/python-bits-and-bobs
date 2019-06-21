@@ -9,3 +9,6 @@ htmlcov/
 .DS_Store
 .hypothesis
 .tox/
+.env/
+.venv/
+.vscode/
