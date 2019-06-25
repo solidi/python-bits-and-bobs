@@ -40,3 +40,6 @@ https://tox.readthedocs.io/en/latest/
 ## Attrs
 http://www.attrs.org/en/stable/examples.html
 http://threeofwands.com/attrs-i-the-basics/
+
+## Slots
+http://book.pythontips.com/en/latest/__slots__magic.html
