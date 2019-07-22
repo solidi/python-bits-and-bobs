@@ -43,3 +43,6 @@ http://threeofwands.com/attrs-i-the-basics/
 
 ## Slots
 http://book.pythontips.com/en/latest/__slots__magic.html
+
+## pytest-benchmark
+https://pypi.org/project/pytest-benchmark/
