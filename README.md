@@ -46,3 +46,6 @@ http://book.pythontips.com/en/latest/__slots__magic.html
 
 ## pytest-benchmark
 https://pypi.org/project/pytest-benchmark/
+
+## Textblob
+https://textblob.readthedocs.io/en/dev/quickstart.html
