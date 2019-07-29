@@ -49,3 +49,6 @@ https://pypi.org/project/pytest-benchmark/
 
 ## Textblob
 https://textblob.readthedocs.io/en/dev/quickstart.html
+
+## Using pdbpp
+https://www.codementor.io/stevek/advanced-python-debugging-with-pdb-g56gvmpfa
