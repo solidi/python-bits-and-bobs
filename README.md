@@ -52,3 +52,6 @@ https://textblob.readthedocs.io/en/dev/quickstart.html
 
 ## Using pdbpp
 https://www.codementor.io/stevek/advanced-python-debugging-with-pdb-g56gvmpfa
+
+## Zeep
+https://python-zeep.readthedocs.io/en/master/
