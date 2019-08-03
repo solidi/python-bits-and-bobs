@@ -55,3 +55,6 @@ https://www.codementor.io/stevek/advanced-python-debugging-with-pdb-g56gvmpfa
 
 ## Zeep
 https://python-zeep.readthedocs.io/en/master/
+
+## JSONBender
+https://github.com/Onyo/jsonbender
