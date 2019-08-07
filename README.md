@@ -61,3 +61,6 @@ https://github.com/Onyo/jsonbender
 
 ## MKDocs
 https://www.mkdocs.org/#getting-started
+
+## Flake8
+http://flake8.pycqa.org/en/latest/index.html#quickstart
