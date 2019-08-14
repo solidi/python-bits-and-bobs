@@ -1,5 +1,8 @@
 Brief Tutorials on parts of the stand library.
 
+## Setting up pipenv in VSCode
+https://www.therightchoyce.com/2018/10/01/setting-up-visual-studio-code-with-pipenv-and-python3/
+
 ## Pickle
 https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 
@@ -64,3 +67,6 @@ https://www.mkdocs.org/#getting-started
 
 ## Flake8
 http://flake8.pycqa.org/en/latest/index.html#quickstart
+
+## lxml
+https://lxml.de/tutorial.html
