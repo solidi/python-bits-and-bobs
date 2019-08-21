@@ -1,0 +1,20 @@
+[
+    {
+        "path": "gcd.py",
+        "line": 1,
+        "func_name": "main",
+        "type_comments": [
+            "() -> None"
+        ],
+        "samples": 1
+    },
+    {
+        "path": "gcd.py",
+        "line": 6,
+        "func_name": "gcd",
+        "type_comments": [
+            "(int, int) -> int"
+        ],
+        "samples": 2
+    }
+]

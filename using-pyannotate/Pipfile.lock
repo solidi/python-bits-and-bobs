@@ -1,0 +1,57 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d0375b5837f640c7d897d1ea38915f947dee62a694bbb5fda2da98e2666bda7d"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "click": {
+            "hashes": [
+                "sha256:2335065e6395b9e67ca716de5f7526736bfa6ceead690adf616d925bdc622b13",
+                "sha256:5b94b49521f6456670fdb30cd82a4eca9412788a93fa6dd6df72c94d5a8ff2d7"
+            ],
+            "version": "==7.0"
+        },
+        "gcd": {
+            "hashes": [
+                "sha256:5062c22c9da3e83d003e8f77638321eba612179f46732d92ff1d0e6aab852e59"
+            ],
+            "index": "pypi",
+            "version": "==0.1.0"
+        },
+        "mypy-extensions": {
+            "hashes": [
+                "sha256:37e0e956f41369209a3d5f34580150bcacfabaa57b33a15c0b25f4b5725e0812",
+                "sha256:b16cabe759f55e3409a7d231ebd2841378fb0c27a5d1994719e340e4f429ac3e"
+            ],
+            "version": "==0.4.1"
+        },
+        "pyannotate": {
+            "hashes": [
+                "sha256:54e6035a8601248992e17734034e6555842c6ea9863f90c15d14fe76a184be07",
+                "sha256:d0e1db8c5df7130f3259ec72b5f743a4ece2126cb6153ade9d765ed858bbbdf8"
+            ],
+            "index": "pypi",
+            "version": "==1.0.7"
+        },
+        "six": {
+            "hashes": [
+                "sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c",
+                "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
+            ],
+            "version": "==1.12.0"
+        }
+    },
+    "develop": {}
+}

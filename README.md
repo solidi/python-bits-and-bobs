@@ -70,3 +70,6 @@ http://flake8.pycqa.org/en/latest/index.html#quickstart
 
 ## lxml
 https://lxml.de/tutorial.html
+
+## Pyannotate
+https://github.com/dropbox/pyannotate/tree/master/example
