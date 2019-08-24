@@ -73,3 +73,6 @@ https://lxml.de/tutorial.html
 
 ## Pyannotate
 https://github.com/dropbox/pyannotate/tree/master/example
+
+## Data Classes
+https://realpython.com/python-data-classes/
