@@ -76,3 +76,6 @@ https://github.com/dropbox/pyannotate/tree/master/example
 
 ## Data Classes
 https://realpython.com/python-data-classes/
+
+## Sanic
+https://github.com/huge-success/sanic
